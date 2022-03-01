@@ -1,9 +1,9 @@
 # expressjs-crash-course
 
 ## Try
-```
-express route
-express middleware
-view engine: handlebars
-basic css
-```
+
+- express route
+- express middleware
+- view engine: handlebars
+- basic css
+
